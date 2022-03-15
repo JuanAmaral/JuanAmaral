@@ -12,7 +12,7 @@
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Juan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Juan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;" src="https://jobflare-wordpress-public.s3.amazonaws.com/wp-content/uploads/2020/08/Computer-Programmer-Thumbnail-Circle.png">
+  <img align="right" alt="Juan-pic" height="150" style="border-radius:50px;" src="https://www.g-techsistemas.com.br/assets/images/tab-content-02.png">
 </div>
   
   ##
