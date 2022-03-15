@@ -1,4 +1,4 @@
-## Olá, sou Juan Amaral e um entusiasta tecnológico!
+## Olá, me chamo Juan e sou um entusiasta tecnológico!
 <div align="center">
   <a href="https://github.com/JuanAmaral">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanAmaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
